@@ -1,0 +1,4 @@
+git add ERL the Referral Tree.png
+git commit -m 'add png file'
+git remote add origin https://github.com/ERL the Referral Tree.git
+git push -u origin master
